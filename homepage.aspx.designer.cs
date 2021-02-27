@@ -11,7 +11,7 @@ namespace ELibraryManager
 {
 
 
-    public partial class WebForm1
+    public partial class homepage
     {
     }
 }
